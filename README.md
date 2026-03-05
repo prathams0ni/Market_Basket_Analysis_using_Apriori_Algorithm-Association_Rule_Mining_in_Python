@@ -1,11 +1,8 @@
 # 🛒 Market Basket Analysis using Apriori Algorithm
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Association%20Rule%20Mining-green)
-
 ![Library](https://img.shields.io/badge/mlxtend-Apriori-orange)
-
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
