@@ -1,8 +1,11 @@
 # 🛒 Market Basket Analysis using Apriori Algorithm
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Association%20Rule%20Mining-green)
+
 ![Library](https://img.shields.io/badge/mlxtend-Apriori-orange)
+
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
@@ -169,7 +172,7 @@ If a customer buys **Bread**, the system may recommend **Biscuit**.
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/market-basket-analysis.git
+git clone https://github.com/prathams0ni/Market_Basket_Analysis_using_Apriori_Algorithm-Association_Rule_Mining_in_Python.git
 
 ### 2️⃣ Install Dependencies
 
